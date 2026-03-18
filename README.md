@@ -1,5 +1,4 @@
-# Power-Bi-Sales-Dashboard
-Interactive Adidas Sales Dashboard using Power BI
+
 # 📊 Adidas Sales Dashboard (Power BI)
 
 ## 📌 Overview
